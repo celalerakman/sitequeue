@@ -1,0 +1,7 @@
+{
+  "kind":"certificate",
+  "data": {
+    "rows":[{"code":"CONC-01","contract_quantity":"120","previous_quantity":"40","claimed_quantity":"90","measured_quantity":"85","unit_rate":"115.50"}],
+    "retention":"0.05","tax":"0.20","previous_net":"5266.80"
+  }
+}
